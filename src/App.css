@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.animated-image {
+  animation: move 5s infinite alternate;
+}
+
+@keyframes move {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
