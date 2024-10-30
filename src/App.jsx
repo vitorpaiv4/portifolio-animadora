@@ -3,7 +3,7 @@ import Home from './components/Home';
 import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Portfolio from './components/Portfolio';
+import Servicos from './components/Servicos';
 import Layout from './components/Layout';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
       <Layout/>
       <Home/>
       <About/>
-      <Portfolio/>
+     <Servicos/>
       <Contact/>
       <Footer/>
     </div>
