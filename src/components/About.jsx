@@ -1,6 +1,7 @@
 const About = () => {
   return (
     <section 
+      id="about"  // ID para a âncora
       className="py-16 text-gray-800" 
       style={{ 
         backgroundImage: 'url(/imagens/fundo.jpg)', 
@@ -16,7 +17,7 @@ const About = () => {
             <img 
               src="/imagens/file.png" 
               alt="Artista" 
-              className="rounded-lg w-full  animate-bounce" 
+              className="rounded-lg w-full animate-bounce" 
               style={{ backgroundColor: 'transparent' }}
             />
           </div>

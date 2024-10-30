@@ -24,7 +24,7 @@ const Layout = () => {
             Contatos
           </a>
           {/* Ícones de Redes Sociais */}
-          <a href="https://www.linkedin.com/" className="text-white text-2xl hover:text-light-pink">
+          <a href="https://www.linkedin.com/in/laiana-carpenedo-193a78309/" className="text-white text-2xl hover:text-light-pink">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
           <a href="https://www.instagram.com/" className="text-white text-2xl hover:text-light-pink">
