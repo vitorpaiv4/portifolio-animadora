@@ -91,7 +91,7 @@ Para modificar a descrição ou informações de contato, altere os componentes 
 📞 Contato
 Se tiver alguma dúvida ou sugestão, entre em contato pelo e-mail ou através das redes sociais de Laiana Carpenedo.
 
-Desenvolvido com 💙 por Laiana Carpenedo
+Desenvolvido com 💙 por Vitor Paiva
 
 markdown
 Copiar código
